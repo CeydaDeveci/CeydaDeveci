@@ -4,7 +4,7 @@
 
 
 <p>Merhaba Değerli Okuyucular!</p>
-<p>Öncelikle sizlere kendimi tanıtmakla başlamak istiyorum. Ben Ceyda &#128512; ! Karadeniz Teknik Üniversitesi İstatistik ve Bilgisiyar Bilimleri mezunuyum. Veri analiz etmeyi çok seviyorum. &#128151</p>
+<p> &#128512;  &#128151</p>
  
 <h2 style="border:2px solid Violet;" >VERİ SETİ HAKKINDA</h2>            
 
